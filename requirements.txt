@@ -1,0 +1,9 @@
+mne
+wget
+numpy
+matplotlib
+pandas
+torch
+tqdm
+einops
+braindecode
